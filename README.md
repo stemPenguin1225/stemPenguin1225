@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stemPenguin1225
 - 👀 I’m interested in swift
-- 🌱 I’m currently learning Roblox Studio
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning Godot
+- 💞️ I’m looking to collaborate on WorkyWorky
 - 📫 How to reach me gifford.henry@icloud.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I know over 5 languges!
